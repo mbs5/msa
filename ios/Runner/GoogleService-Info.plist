@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>702179356991-3cffp9dt300k1b2on8qqtsrdd9pfdfsm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.702179356991-3cffp9dt300k1b2on8qqtsrdd9pfdfsm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCL61h3VycgRk8Wda7KjW4XTANip37Su5I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>702179356991</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.msa</string>
+	<key>PROJECT_ID</key>
+	<string>msa-applictation</string>
+	<key>STORAGE_BUCKET</key>
+	<string>msa-applictation.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:702179356991:ios:cf634029a1c95df1fc238a</string>
+	<key>DATABASE_URL</key>
+	<string>https://msa-applictation-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

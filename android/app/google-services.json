@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "702179356991",
+    "firebase_url": "https://msa-applictation-default-rtdb.firebaseio.com",
+    "project_id": "msa-applictation",
+    "storage_bucket": "msa-applictation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702179356991:android:60fe8ffeb3e5bf6efc238a",
+        "android_client_info": {
+          "package_name": "com.example.msa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702179356991-ii4hfthnso4e7umfofcs3bci4db065v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMNETcJT_OUuIhGA11TEwIkbFRkE-ln1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702179356991-ii4hfthnso4e7umfofcs3bci4db065v8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "702179356991-3cffp9dt300k1b2on8qqtsrdd9pfdfsm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.msa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
